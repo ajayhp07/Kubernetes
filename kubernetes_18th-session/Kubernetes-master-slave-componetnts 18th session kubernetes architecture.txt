@@ -2,7 +2,7 @@ Kubernetes docker 18th session kubernetes architecture 40:00 min
 --------------------------------------------------------------------
 Q:explain component of master and slave architecture (or) kubernetes architecture
 ----------------
-1.cotainer runtime:
+1.container runtime:
 -->it means containerization techology
 2.kube apiserver:
 -->its a validater
